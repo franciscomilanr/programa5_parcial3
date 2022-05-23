@@ -26,7 +26,7 @@
 	<li> Variable archivo </li>
 	<li> Variable almacedor de caracteres de un archivo </li>
 	<li> Comparaciones </li>
-	<li> Archivos de texto </li>
+	<li> Archivos de tipo binario </li>
 	<li> Manejo de archivos </li>
 	<li> Instruccion fopen </li>
   <li> Apertura de archivos </li>
